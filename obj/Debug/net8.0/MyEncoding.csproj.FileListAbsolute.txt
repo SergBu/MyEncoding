@@ -1,0 +1,15 @@
+C:\SharpRepositories\MyEncoding\bin\Debug\net8.0\MyEncoding.exe
+C:\SharpRepositories\MyEncoding\bin\Debug\net8.0\MyEncoding.deps.json
+C:\SharpRepositories\MyEncoding\bin\Debug\net8.0\MyEncoding.runtimeconfig.json
+C:\SharpRepositories\MyEncoding\bin\Debug\net8.0\MyEncoding.dll
+C:\SharpRepositories\MyEncoding\bin\Debug\net8.0\MyEncoding.pdb
+C:\SharpRepositories\MyEncoding\obj\Debug\net8.0\MyEncoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\SharpRepositories\MyEncoding\obj\Debug\net8.0\MyEncoding.AssemblyInfoInputs.cache
+C:\SharpRepositories\MyEncoding\obj\Debug\net8.0\MyEncoding.AssemblyInfo.cs
+C:\SharpRepositories\MyEncoding\obj\Debug\net8.0\MyEncoding.csproj.CoreCompileInputs.cache
+C:\SharpRepositories\MyEncoding\obj\Debug\net8.0\MyEncoding.sourcelink.json
+C:\SharpRepositories\MyEncoding\obj\Debug\net8.0\MyEncoding.dll
+C:\SharpRepositories\MyEncoding\obj\Debug\net8.0\refint\MyEncoding.dll
+C:\SharpRepositories\MyEncoding\obj\Debug\net8.0\MyEncoding.pdb
+C:\SharpRepositories\MyEncoding\obj\Debug\net8.0\MyEncoding.genruntimeconfig.cache
+C:\SharpRepositories\MyEncoding\obj\Debug\net8.0\ref\MyEncoding.dll
